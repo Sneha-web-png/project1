@@ -1,0 +1,124 @@
+.sec1{
+    background-color: aliceblue;
+    height: 150px;
+    
+}
+
+.SEC2{
+    background-color: rgb(62, 148, 218);
+    height: 400px;
+    
+}
+
+.inbox4,.inbox3{
+    margin-top: 20px;
+}
+.SEC3{
+    background-color: aliceblue;
+    height: 200px;
+    
+    
+}
+
+.sec4{
+    background-color: rgb(111, 167, 240);
+    height: 300px;
+}
+.sec5{
+    background-color: black;
+    height: 250px;
+    color: white;
+}
+
+.sec6{
+    background-color: white;
+    padding: 5px;
+    float: left;
+}
+
+.sec7{
+    background-color: white;
+    padding: 5px;
+    float: left;
+    border: rgb(103, 184, 250);
+}
+.app{
+    background-color: white;
+    padding: 5px;
+    border: rgb(93, 185, 238);
+    text-align: center;
+    display:inline-block;
+    margin-top:20px ;
+}
+
+.inbox2,.inbox3,.inbox4,.inbox5,.inbox6,.inbox7,.inbox8{
+    text-align: center;
+
+}
+.inbox8{
+    text-decoration-color: white;
+    margin-top: 20px;
+}
+.sec9{
+    background-color: white;
+    /* height: 400px; */
+}
+.sec10{
+    background-color:black;
+    height: 350px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sec11{
+    background-color:white;
+    height: 200px;
+    text-align: center;
+}
+.appointment{
+    background-color: white;
+    padding: 10px;
+    color: black;
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+
+}
+.inbox10{
+    color: aliceblue;
+}
+
+.bo1{
+    height: 2px;
+    width: 2px;
+    background-color: white;
+    
+}
+.sec3{
+    text-align: center;
+}
+.img{
+    width: 100%;
+}
+
+.ab{
+    text-align: center;
+    padding: 15px 15 px;
+}
+
+.sec{
+    text-align: center;
+}
+.suits{
+    text-align: center;
+    
+}
+.line{
+    background-color: white;
+    height: 2px;
+    
+}
+.inbox3{
+    margin-top: 20px;
+}
+
